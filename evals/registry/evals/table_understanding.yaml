@@ -6,4 +6,4 @@ table_understanding:
 table_understanding.dev.v0:
   class: evals.elsuite.table_understanding:TableUnderstanding
   args:
-    samples_jsonl: /tmp/test.jsonl
+    samples_jsonl: table_understanding/sample.jsonl
